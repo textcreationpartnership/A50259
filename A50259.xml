@@ -1,0 +1,801 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A novelty: or, a government of vvomen distinct from men, erected amoungst some of the people, call'd Quakers. Detected in an epistle, occasionally written to a man-judge, upon a young man's refusing (for good conscience sake) to submit to their authority in marriage, seeing that relations and friends were already satisfied. To which is added, a lamentation for the fall of so many of that people. Published for no other end, but to deter all honest hearts of the said people, from erecting the like unscriptural government. Tho' this may not so far prevail with such women as has a secret command of their husbands purses; together with those preachers that reap profit by such a female government, as to consent to the disanulling the same. Written by William Mather, a dear lover of the said people, who has for several years been much troubled, that some of them should fall from there primitive institution, as to set up women's and men's meetings, as guides in government, ... .</title>
+            <author>Mather, W. (William), fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50259</idno>
+            <idno type="STC">Wing M1284C</idno>
+            <idno type="STC">ESTC R221850</idno>
+            <idno type="EEBO-CITATION">99833098</idno>
+            <idno type="PROQUEST">99833098</idno>
+            <idno type="VID">37573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A novelty: or, a government of vvomen distinct from men, erected amoungst some of the people, call'd Quakers. Detected in an epistle, occasionally written to a man-judge, upon a young man's refusing (for good conscience sake) to submit to their authority in marriage, seeing that relations and friends were already satisfied. To which is added, a lamentation for the fall of so many of that people. Published for no other end, but to deter all honest hearts of the said people, from erecting the like unscriptural government. Tho' this may not so far prevail with such women as has a secret command of their husbands purses; together with those preachers that reap profit by such a female government, as to consent to the disanulling the same. Written by William Mather, a dear lover of the said people, who has for several years been much troubled, that some of them should fall from there primitive institution, as to set up women's and men's meetings, as guides in government, ... .</title>
+                  <author>Mather, W. (William), fl. 1695.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sarah Howkins, in George-yard, Lumbard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1694?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quaker women --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Meetings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37573:1" rendition="simple:additions"/>
+            <p>A NOVELTY: Or, a Government of WOMEN, DISTINCT FROM MEN, Erected amongſt ſome of the People, call'd QUAKERS.</p>
+            <p>DETECTED In an Epiſtle, occaſionally written to a <hi>Man-Judge,</hi> upon a Young Man's refuſing (for good Conſcience ſake) to ſubmit to their Authority in Marriage, ſeeing that Relations and Friends were already ſatisfied.</p>
+            <p>To which is added, A Lamentation for the Fall of ſo many of that People.</p>
+            <p>Publiſhed for no other end, but to deter all honeſt Hearts of the ſaid People, from erecting the like <hi>Unſcriptural Government.</hi> Tho' this may not ſo far prevail with ſuch <hi>Women</hi> as has a ſecret Command of their Husbands Purſes; together with thoſe Preachers that reap Profit by ſuch a <hi>Female Government,</hi> as to conſent to the Diſanulling the ſame.</p>
+            <p>Written by <hi>William Mather,</hi> a dear Lover of the ſaid People, who has for ſeveral Years been much troubled, that ſome of them ſhould fall from their <hi>Primitive In<g ref="char:EOLhyphen"/>ſtitution,</hi> as to ſet up <hi>Women's</hi> and <hi>Men's</hi> Meetings, as Guides in <hi>Government,</hi> ſeeing God has placed the civil Magiſtrates over us, <hi>Rom.</hi> 13.</p>
+            <p>
+               <hi>MIRROR</hi> of <hi>POLICY,</hi> No honeſt Married Wife is to deal in the Affairs of the <hi>Common-wealth,</hi> much leſs to meddle with the making of <hi>Marriages,</hi> unleſs for her own Children and Servants, wherein ſhe muſt alſo refer her ſelf to the diſcretion of her Husband, leſt ſhe incur the name of a <hi>Harebrain.</hi>
+            </p>
+            <q>
+               <p>Ceaſe ye from Man, whoſe Breath is in his Noſtrils, for wherein is he to be accounted of.</p>
+               <bibl>
+                  <hi>Iſa. 222.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sarah Howkins,</hi> in <hi>George-yard, Lumbard-ſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37573:2"/>
+            <pb n="3" facs="tcp:37573:2"/>
+            <head>A NOVELTY, &amp;c.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>TO uſe as few Words as I can, behold a Copy of the <hi>Certificate,</hi> or <hi>Letter</hi> from one of the Judges, from a Monthly Meeting in <hi>Huntington-ſhire,</hi> where the <hi>Young Man</hi> dwelt, to a Monthly Meeting in <hi>Bedford-ſhire,</hi> where the <hi>Maid</hi> dwelt.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Ramſey,</hi> 
+                        <date>3d. of the 5th. M. <hi>94.</hi>
+                        </date>
+                     </dateline>
+                     <salute>
+                        <hi>Friends in</hi> Bedford-ſhire,</salute>
+                  </opener>
+                  <p>HERE came <hi>Stephen Scarborrow,</hi>
+                     <note n="†" place="margin">Who kee<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> a little <hi>Groſe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> Shop at <hi>Bran<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ton,</hi> a Mile <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Huntington.</hi>
+                     </note> to acquaint Friends of his Intention of Marriage with <hi>Marry Samm,</hi> Daughter of <hi>Natha<g ref="char:EOLhyphen"/>niel Samm</hi> of <hi>Litlington,</hi> in <hi>Bedford-ſhire;</hi> as alſo he did to our Quarterly Meeting about a Month ago, and Friends did tenderly adviſe him to acquaint our <hi>Women</hi> Friends therewith, who attend Meet<g ref="char:EOLhyphen"/>ings to ſerve <hi>Truth</hi> in their Day Age, and Generation, and to enquire, and ſee that things be clear on all parts on ſo weighty a Concern as Mar<g ref="char:EOLhyphen"/>riage; but he refuſing to follow Friend's Advice herein, <hi>I know not what the Women-Friends may have to ſay in this Matter:</hi> Now I being one that have had ſome Exerciſe and Concern in theſe our Meetings, <hi>I do teſtifie, That that Spirit that doth oppoſe the good Order in publiſhing Marriage in Men and Women's Meetings, is not of God,</hi> and am ſorry for the Young Man, and deſire he may live to ſee his Weakneſs, and amend; ſo with Love to all Friends of <hi>Truth,</hi> reſt a Friend to the ſame Truth.</p>
+                  <closer>
+                     <signed>Tobias Hardmeat.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After the Young Man had carried the Letter above, with a Certificate, to a Monthly Meeting in <hi>Bedford-ſhire,</hi> with other Hands to it, which <hi>Tobias</hi> would not ſign with his Brethren, (he not being at Unity with them in that;) my Houſe being in the Young Man's way home, call'd at my Houſe, and there happen'd to take it out of his Pocket, ſaid to me, Friends gave it me again, and he laid it down; he being gone, I peruſed it pritty
+<pb n="4" facs="tcp:37573:3"/>well, and ſoon perceived it came from an Impoſing Spirit, ſuch a one as has bred all the Diviſion and Troubles amongſt Friends: Therefore in hopes to a little moderate this ſevere Judge, I write the following Letter unto him, (except the Margent,) <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Friend <hi>Tobias Hardmeat,</hi>
+                     </salute>
+                  </opener>
+                  <p>Communicate this to thy Brethren of the Monthly Meeting in <hi>Huntington.</hi>
+                  </p>
+                  <p>WHEN thou was at my Houſe, the 17th day of the laſt Month,<note n="*" place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. E.</hi> and his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ife being at Meeting at <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Houſe.</note> thou ſaid'ſt to me; There was no impoſing upon any Perſon that came into your Meetings of Government, or words to that purpoſe; if you are not Impoſers, I muſt confeſs I am miſtaken.</p>
+                  <p>Thy Certificate<note n="†" place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>or Letter to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onthly Meet<g ref="char:EOLhyphen"/>ing in <hi>Bedford<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>re;</hi> who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere alſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wed their <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>wer, bid<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ng the young <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n come <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>xt Monthly Meeting, when they knew, or might have known that day, the Couple was innocent; but <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me he muſt, tho' he dwells about ſixteen Miles off, and muſt hire a Horſe.</note> of the 3d. Inſtant makes it more manifeſt concerning a young Man's refuſing to mention his Intention of Marriage firſt of all to the Judgment of your <hi>Women's Meetings;</hi> and becauſe (for good Conſci<g ref="char:EOLhyphen"/>ence ſake) he could not do it, thou judgeth him weak, and need of Amend<g ref="char:EOLhyphen"/>ment; judging alſo all other People that do oppoſe, or that ſubmit not to a <hi>Female Authority</hi> in Marriage, <hi>Not to be of God,</hi> then of the Devil: An uncharitable Sentence.</p>
+                  <p>Can there be greater Impoſers in the World, than thoſe that judge all People, <hi>Not to be of God,</hi> for not ſubmitting to a <hi>Female Government</hi> in Marriage? A thing never heard of, but of late Years, except the Govern<g ref="char:EOLhyphen"/>ment of the <hi>Amazons,</hi> who were not ſo Cenſorious upon the account of Marriage.</p>
+                  <p>The Words in the Certificate.<note n="†" place="margin">Or Letter.</note>
+                  </p>
+                  <p>
+                     <hi>I do teſtifie, That that Spirit that doth oppoſe the good Order in publiſhing Marriages in Men and Womens Meeting, is not of God.</hi>
+                  </p>
+                  <p>Again, <hi>And am ſorry for the young Man, and deſire he may live to ſee his Weakneſs, and amend.</hi>
+                  </p>
+                  <p>Again, ſaiſt thou, <hi>I know not what the Women-Friends may have to ſay to this Matter;</hi> (that is) his Non ſubmiſſion to a Meeting of <hi>Women,</hi> di<g ref="char:EOLhyphen"/>ſtinct from <hi>Men.</hi>
+                  </p>
+                  <p>I do greatly deſire to hear how they do to bear it, that a Young Man ſhould refuſe to ſubmit to their Authority.</p>
+                  <p>Yet ſhould be very glad to hear alſo, that a Meeting of <hi>VVomen</hi> had received power from God, ſo as to prevail with a Maid, or Married Woman (that comes to them for Counſel) to forſake <hi>Pride,</hi>
+                     <note n="*" place="margin">Oh! The <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>de</hi> of Wo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en-Judges, eſpecially at <hi>London,</hi> that has not yet prevailed with Maids, to hide thoſe hollow places they <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ve, as room for Topknots on their Foreheads.</note> and Exceſs in Meat, Drink, Apparel, and Furniture.</p>
+                  <pb n="5" facs="tcp:37573:3"/>
+                  <p>And whether ſuch <hi>Women-Judges</hi> ever did any Good, who come into the Seat of <hi>Counſel,</hi> ruſling in gaudy flower'd Stuffs, or Silks, from Top to Toe, mincing with their Feet, <hi>&amp;c.</hi> except their Gifts to the Poor.</p>
+                  <p>But to be brief, becauſe I am not for raiſing Chollar in any,<note place="margin">He that's built on the <hi>Rock</hi> Chriſt, nothing will move to Paſſion.</note> yet I hope I need not fear it in thee, and am ſure thou wilt not be angry with me, if thou art built upon that <hi>Rock,</hi> that neither Storms, nor any other thing can move to Paſſion.</p>
+                  <p>Therefore, to eaſe me of the Burthen which now is upon my Spirit,<note n="*" place="margin">And has been ſome Years.</note> I ſhall give thee my Opinion and then ceaſe at this time; for it is not becoming a true Chriſtian to delight in Contending, or be troubleſom to a Congregation; yet thoſe that ſhall force me to confeſs that I err in what I write, (before I ſee it my ſelf) are the <hi>Impoſers.</hi>
+                  </p>
+                  <p>My Opinion is this, by way of Advice<note n="†" place="margin">From a weak one; yea, one of the moſt de<g ref="char:EOLhyphen"/>ſpiſed in <hi>Iſrael,</hi> being not a <hi>Conformiſt.</hi>
+                     </note>; When a Couple ſhall come to your private Monthly Meeting in <hi>Huntington,</hi> to acquaint you of their Intentions of Marriage, ſay to them, as to the antient <hi>Chriſtian Quakers.</hi>
+                  </p>
+                  <p>Friend, <hi>Who made us Judges over you?</hi> Go, if you find freedom of Spirit, and publiſh your Intentions at the end of the Publick Religious Meeting for Worſhip, to which you belong, or neareſt to your Dwel<g ref="char:EOLhyphen"/>ling;<note n="*" place="margin">The ancient Practice of <hi>Friends.</hi>
+                     </note> for they beſt know whither or no you are clear from all other En<g ref="char:EOLhyphen"/>gagements in this kind, where you may have a ſufficient number of Witneſſes at your Certificate.</p>
+                  <p>And that we now let you know, this was the Innocent Practice of our dear deceaſed Friends in the beginning, when God ſent among us, to turn our Minds to Chriſt's <hi>Inward and Spiritual Grace,</hi>
+                     <note n="†" place="margin">Mention'd in the Church of <hi>England</hi>'s Ca<g ref="char:EOLhyphen"/>techiſm, to be the Subſtance, Baptiſm, and the Supper of the Lord, being but ſigns thereof.</note> in each Soul, to be our Guides, not Man.</p>
+                  <p>Likewiſe, on the other Hand, ſay unto this Couple, in the fear of God, <hi>Friends, If you have freedom, and find it's not contrary to the Teachings of</hi> Chriſt's Inward and Spiritual Grace<note n="†" place="margin">Mention'd in the Church of <hi>England</hi>'s Ca<g ref="char:EOLhyphen"/>techiſm, to be the Subſtance, Baptiſm, and the Supper of the Lord, being but ſigns thereof.</note> 
+                     <hi>in your own Souls.</hi>
+                  </p>
+                  <p>Publiſh your Intentions of Marriage twice in our <hi>Women</hi>'s <hi>Meetings;</hi> and when all the <hi>VVomen-Judges</hi> think you a fit Match, then you muſt men<g ref="char:EOLhyphen"/>tion it alſo twice to us of the <hi>Men's Meeting,</hi> which we think neceſſary.<note n="*" place="margin">This Decree was made at the Yearly Meeting, 1657: and alſo in a Quarterly Mee<g ref="char:EOLhyphen"/>ting in the Iſle of <hi>Ely.</hi>
+                     </note>
+                  </p>
+                  <p>And that when we, who are moſt commonly Strangers to your Pro<g ref="char:EOLhyphen"/>ceedings, (tho' we are well informed by a Friend, all things are clear on both ſides) yet you are to come and wait on us Monthly or Quarterly, until ſuch time, as all the <hi>VVomen</hi> and <hi>Men</hi> of both <hi>Meetings</hi> ſay you may joyn in Marriage, for fear you ſhould bring a Scandal upon the <hi>Truth,</hi> tho' your Dwelling be Twenty Miles off, or more, from hence.<note n="†" place="margin">Not caring how it hinders their Buſineſs, &amp; Horſe-hire.</note>
+                  </p>
+                  <p>Theſe two manner of ways of Marriage, we lay before you, chuſe which of the two, that anſwers beſt to the witneſs of God in your own Souls; for we are not to be Judges of that.</p>
+                  <p>So we freely leave you to your Choice,<note n="*" place="margin">The want of this has brought much Confuſion.</note> ſo as you come together in the fear of God, and we ſhall think never the worſe of you.<note n="†" place="margin">How have you hated thoſe that conform'd not.</note>
+                  </p>
+                  <pb n="6" facs="tcp:37573:4"/>
+                  <p>For we ſeek God's Glory, not our own; which is according to our firſt Inſtitution, when firſt we became a People.</p>
+                  <p>For our Labour is to perſwade People to ſubmit to <hi>Chriſt's Spiritual Government</hi> in their own Souls.</p>
+                  <p>So that as we are not to anſwer for your Miſcarriges, neither are you for ours.</p>
+                  <p>If thou believeſt I write this to thee, in Enmity to any Perſon or Per<g ref="char:EOLhyphen"/>ſons whatſoever, thy diſerning is but weak, ſo not fit to ſit as a Judge in <hi>Iſrael.</hi>
+                  </p>
+                  <p>But hope better things of thee, to whom my true Love is, and to all that do faithfully return to the Truth, as it was amongſt Friends, when firſt the Mockers called us <hi>Quakers.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Bedford,</hi> 
+                        <date>11d. 5m. 94.</date>
+                     </dateline>
+                     <signed>I am thy Friend, <hi>William Mather.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>To which Letter no Anſwer hath yet been given.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <div type="continuation_of_text">
+               <head>A Lamentation for the Fall of ſo many, once <hi>Worthies,</hi> in Spiritual <hi>Iſrael.</hi>
+               </head>
+               <p>OH!<note place="margin">The <hi>Author</hi>'s Sorrow.</note> what ſhall I ſay, or write unto you, that once run to and fro on Foot from place to place, ſpending your Time and Strength to turn Peoples Minds into the Centre of their Souls, to <hi>Chriſt's Inward and Spiri<g ref="char:EOLhyphen"/>tual Grace,</hi> to be their Teacher and Leader into all <hi>Truth.</hi>
+               </p>
+               <p>But now, that you ſhould contradict your former Advice, by ſetting up <hi>VVomen</hi> and <hi>Men</hi> Guides over an Innocent People, is greatly to be lamented.</p>
+               <p>How are you fallen, what Lamentation ſhall I take up for you?</p>
+               <p>Oh! that mine Eyes were as a Fountain of Water, that I might weep Day and Night for the Fall of ſo many, once <hi>Worthies</hi> in <hi>Spiritual Iſrael;</hi> who were once in that Spirit and Love of Jeſus, that they could lay down their Lives to win Souls to God; loved their very Enemies, yea, could forgive the Treſpaſſes of a Brother,<note place="margin">
+                     <hi>Matth.</hi> 18.22.</note> 
+                  <hi>ſeventy times ſeven.</hi>
+               </p>
+               <p>But alas, this true Love, or Lamb's Patience is not now to be found on Earth,<note place="margin">O Truth, art thou fled to Heaven again? Is Man's Souls too ſtraight to contain thee?</note> except amongſt a few upright Hearts, that has choſen <hi>Christ's In<g ref="char:EOLhyphen"/>ward and Spiritual Grace</hi> for their Guide, ſuch can waſh the Feet of their Enemies.</p>
+               <p>Deceive not your ſelves, for you cannot ſave your ſelves; by ſaying you are in the <hi>Light,</hi> when you envy any Man; for whoever doth, is in <hi>Darkneſs,</hi> even until now, 1 <hi>Joh.</hi> 1.9.</p>
+               <pb n="7" facs="tcp:37573:4"/>
+               <p>Now let me a little reaſon with you, Was there not true Love and Charity in general amongſt the Profeſſors of the Truth (when all thought themſelves Poor and Low in their own Eyes<note n="*" place="margin">Have you not forgotten that good Day.</note>) before Ambitious <hi>Wo<g ref="char:EOLhyphen"/>men,</hi> and Ambitious <hi>Men,</hi> crept in among you, ſuch I mean that thirſted for Honour and Rule over an Innocent People, <hi>Abſolon</hi> like, ſaying in Heart, <hi>O that I was a Judge in Iſrael,</hi> when alas, moſt of ſuch Judges,<note place="margin">The Heart of Man is deceit<g ref="char:EOLhyphen"/>ful; none can know it, but by the Grace of God. What is not of Faith is Sin.</note> have and do buſie themſelves in judging others for the Moats in their Eyes, when the Beam is ſtill in their own Eyes.</p>
+               <p>Theſe Lordly Spirits in <hi>Women's-Meetings,</hi> and <hi>Men's Meetings,</hi> would have an Innocent People ſubmit to their Rules, Orders and Ceremonies, whither the Parties ſee it their Duty to obey, or not.</p>
+               <p>Holding thoſe <hi>Meetings</hi> Monthly and Quarterly in private Rooms (where ſometimes there are not above four Perſons that take upon themſelves to Rule<note n="†" place="margin">And alas moſt of them Ignorant ones, not knowing who gave them their uſurped Power, yet will be as an<g ref="char:EOLhyphen"/>gry as a <hi>Wo<g ref="char:EOLhyphen"/>man,</hi> if you obey not their Wills, when you come be<g ref="char:EOLhyphen"/>fore them.</note>) and there diſpoſe of ſuch Monies as they collect at the end of Religious Meetings (where the moſt Givers are) where they ought alſo to give a publick Account how they diſpoſed of the Money unto the general Givers; but this I never ſee them do, except the Collection was for a Fire, <hi>&amp;c.</hi>
+               </p>
+               <p>It's true, Monies for the Poor were at firſt (that is) when firſt God raiſed us to be a People, (who diſcovered more of his Love to us, than too many before us in this latter Age.) I ſay, then Moneys were collected, or freely given always at the end of a Monthly Religious Meeting, where alſo Marriages was propoſed, and there finiſhed in time.</p>
+               <p>Then why do you (in many places) ſtill hold up the one, and leave the other to the Judgment of <hi>Women</hi>'s Meetings, <hi>&amp;c.</hi>
+               </p>
+               <p>Whence ſprung all the Diviſions, Controverſies, and ſeparate Meet<g ref="char:EOLhyphen"/>ings for Worſhip among you.</p>
+               <p>If not from the ſeverity, acted in the ſaid Meetings for <hi>Government,</hi>
+                  <note place="margin">The Root from whence Conteſt riſes among you.</note> whereby have you not attained to ſuch an outward Power and Authority over Innocent People, as to caſt a good Man, (that confirms not) out of the favour of your People, and to ſlight his Teſtimony for God, and can retain a bad Man (a <hi>Conformiſt</hi> to your <hi>Womens</hi> Meetings) in favour with your People, yea, and to preach too, tho' a Caſt-away.</p>
+               <p>To bring Preſidents, for this would ſpend too much Time and Paper, (I thank God he has hitherto kept me from bowing to any ſort of Image of Man's making.)</p>
+               <p>But did St. <hi>Paul</hi>'s Enemies ſay,<note n="†" place="margin">Would you not have him ſo, by calling before you more than twelve times, to anſwer at your Court in <hi>London.</hi> See his Tryals in <hi>Penſilvania,</hi> Sold by <hi>R. Baldwin.</hi> The moſt hidden way to defame a <hi>Nonconformiſt,</hi> as has been yet heard of.</note> that much Learning had made him <hi>mad?</hi> Did not the <hi>Pope</hi> ſay ſo by <hi>John Parrot</hi> (when you owned him in the Priſon of mad Men at <hi>Rome</hi>) and did not one of your Preachers ſay to me, that much Learning has made <hi>Geo. Kieth mad.</hi>
+               </p>
+               <pb n="8" facs="tcp:37573:5"/>
+               <p>Will you take up thoſe envious Peoples Arguments, to render whom you pleaſe odious in the Minds of the Innocent.</p>
+               <p>But his Works and Service for the <hi>Truth,</hi> as it is in Jeſus, will out live your Malice againſt him.</p>
+               <p>Oh! That he, and every one, that truly fears God, may ſo keep to the meaſure of Grace,<note n="*" place="margin">In what may <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an be pre<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rved from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nemies, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall not be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rt. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e that dwells <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Love to all, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wells in God.</note> given them of God, that no Tryals, of what na<g ref="char:EOLhyphen"/>ture ſoever, may ever ſeparate them from the Love of God; (if ſo) then I am ſure they will envy none, tho' a great Enemy; I ſay, God has kept me in the Spirit of Love to all (praiſed be his Name for it) tho' I have been convinced about forty Years, that the <hi>Quaker's</hi> Fundamental Principle of Chriſt's <hi>Light</hi> and <hi>Grace,</hi> being the chief Leader and Guide into all <hi>Truth,</hi> is a Truth, which will abide for ever.</p>
+               <p>And no Man, either by Converſation or Preaching, made me joyn with them; it was God alone that ſhewed me that they were in the right way then, for I often prayed to God<note n="†" place="margin">Being young, <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>d then dwelt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Holdenly,</hi> in <hi>Northampton<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hire,</hi> knowing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f none, call'd <hi>Quaker.</hi>
+                  </note> to diſcover to me which was the right way to Heaven, and he directed me to them, when I knew nothing of them, but the name <hi>Quaker,</hi> whom I ſought out<note n="*" place="margin">By enquiring <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f <hi>Labourers,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="21 letters">
+                        <desc>〈21 letters〉</desc>
+                     </gap>at I ſet to work, who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>old me there was none fol<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owed them but poor Men, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <hi>Weavers, &amp;c.</hi> The <hi>Author</hi> could never <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyn with their outward <hi>Government.</hi>
+                  </note>, and found them, and ſuffered many Buffittings and Stonings, and Impriſonments with them, which was Joy unſpeakable unto me, that I had found a People, whoſe Truſt was alone in God. Oh! how my Soul was knit unto them; I could have died at a Stake with them then, if it had been the Will of God. Oh! my Heart is broken, as into Tears, that this People ſhould ſo ſoon let go their true Guide, Chriſt's <hi>Inward and Spiritual Grace,</hi> and ſet themſelves up as Guides.</p>
+               <p>I muſt confeſs, I have been at two of theſe Meetings of <hi>Government,</hi> but it was accidentally; the one was in <hi>Huntington ſhire,</hi> the other in <hi>Bedford<g ref="char:EOLhyphen"/>ſhire;</hi> in both which, I ſaw ſo much of the Imperiouſneſs òf thoſe that made themſelves Judges, that I could never after find Freedom in Spirit to go to any more, and did largely write a Teſtimony againſt it, but ne<g ref="char:EOLhyphen"/>ver had an Anſwer, and reſted in the Will of God; but now I am con<g ref="char:EOLhyphen"/>ſtrained to write, in hopes the Innocent may ſee to the beginning, and the danger of any People, that <hi>ſwerves</hi> from their firſt Inſtitution.<note n="†" place="margin">See the Ep. of <hi>J. Crook.</hi> and <hi>Tho. Green,</hi> to the Young, convinced, and Truth's Pro<g ref="char:EOLhyphen"/>greſs. By <hi>J. Crook.</hi>
+                  </note>
+               </p>
+               <p>Again, From whence ariſe all the publick Claſhings of one Miniſter againſt another, if not from thoſe Lordly Spirits, that will rule in ſuch Meetings, too publickly known, both to Profeſs or Prophane? that a Prieſt once writ to me, <hi>That the Light was not new the</hi> Quaker's <hi>Guide, it's their Meeting at</hi> Devonſhire <hi>Houſe,</hi> the Riſe too of thoſe Arbitrary Meetings in the Country.</p>
+               <p>Oh! Ye degenerate from your firſt Inſtitution; you I ſay, that are reſolved to govern Arbitrarily, and not leave the honeſt Souls among you,<note place="margin">
+                     <hi>Arbitrary</hi> Go<g ref="char:EOLhyphen"/>vernment.</note> to be ruled by <hi>Chriſt's Inward and Spiritual Grace,</hi> to which you have ſo often adviſed them to follow, as a moſt ſure Guide, and will not ſuffer them, by the Leadings of that, to chooſe who ſhall be their Arbitra<g ref="char:EOLhyphen"/>tors, for them in Marriage, if you can hinder them.</p>
+               <pb n="9" facs="tcp:37573:5"/>
+               <p>If you reſolve to carry it by a Ruling Hand over the Innocent, (con<g ref="char:EOLhyphen"/>trary to your Principles.)</p>
+               <p>Take no more upon you the Name of <hi>Children of the Light,</hi>
+                  <note n="*" place="margin">For that leads to Peace on Earth, and Good-will to all Men.</note> as <hi>G. F.</hi> and <hi>E. H.</hi> calls you in their <hi>Primmer,</hi> ſeeing you are fallen into the ſame Snare (in Church-Government) as others before you, whom you did condemn for ſuch things.</p>
+               <p>Oh! How dare you the poſitive Judgment againſt any perſon (in things, not ſinful againſt God) ſeeing that one of the greateſt Writers,<note place="margin">He that is without ſin let him caſt the firſt Stone.</note> to promote your Authority, (otherwiſe was a very worthy Man,) had not yet attained to infallibility or Perfection, ſaying, <q>Others may per<g ref="char:EOLhyphen"/>haps ſpeak more certainly of this State (Perfection) as have arrived to it; for me, I ſhall ſpeak modeſtly, as acknowledging my ſelf not to have arrived to it.</q> See <hi>R. B.</hi>'s Works. p. 389.<note place="margin">Perfection is attainable in this Life, thro<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Obedience to God's Grace.</note>
+               </p>
+               <p>Oh! Will you continue to be ſo Cenſorious to Judge all <hi>People, not to be of God,</hi> that take not Counſel of Women's Meetings, before Mar<g ref="char:EOLhyphen"/>riage.</p>
+               <p>My Soul has often mourned for you, and often deſired of God, That he would be pleaſed to diſcover to me, Whether or no,<note place="margin">☞</note> I am to blame in thus writing to you, and have found nothing but peace therein, and good Will to all Men, and can (through God's Mercy) give my Bread freely to mine Enemy, and ſerve all mine Enemies,<note place="margin">The Author is conſtrained to write, having borne long.</note> (if I have any) in what I can, GOD knows I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye not; for I truly Love all the Works of his Hand, and am very ſenſible, that thoſe that do envy any Man, (let his Tranſgreſſions be never ſo great) <hi>is not of God,</hi> profeſs what they will in Religion.<note place="margin">Gods Love is unto all the Works of His Hand.</note>
+               </p>
+               <p>Had not our dear Saviour Love and Mercy for one that had Seven De<g ref="char:EOLhyphen"/>vils? And ſhall not thoſe that profeſs to be his Diſciples have the ſame Love to all? Becauſe no Man dwell in God, no longer than he dwells in Love to all; overcoming Evil by the good <hi>Grace</hi> of Chriſt Jeſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>But to come ſomewhat <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not God <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> your <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Then why do you ſet Self-Exaltation before it? For the Love you have to Rule, by your means over Innocent Hearts.</p>
+               <p>But I ſtill hope that the young Convinced will <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (by <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Gods Grace, he has given them) to the beginning <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a harmleſs and Innocent People, and was not for <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>Oh! ye arbitrary Judges, what think you? Was not <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Man, <hi>W. P.</hi> aſhamed to mention this <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in <hi>Page</hi> 31. of his <hi>Key?</hi> Wherein he <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not your <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Government (to pleaſe you that Love Dominion) <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wiſe in that, fearing (I ſuppoſe) the World <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>deed well they might, having never heard before <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Women muſt be adviſed with, before Marriage, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Men and Women together, and the Reſui<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> to be <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Devil.</p>
+               <pb n="10" facs="tcp:37573:6"/>
+               <p>And the greateſt wonder of all is, That ſuch a Government ſhould be practiſed amongſt a People that profeſs,<note place="margin">Do not you yet ſee your Apoſtane.</note> that every Individual Man and Woman ſhould have no other Guide, beſides Chriſt's <hi>Inward</hi> and <hi>Spiritu<g ref="char:EOLhyphen"/>al</hi> Grace.</p>
+               <p>But if you now ſay to me, as <hi>G. F.</hi> ſaid to me and <hi>T. H.</hi> in a Diſcourſe with him, till near Mid-night, about the ſaid Arbitrary Government, <hi>You do not deſerve to have Wives,</hi> (ſaith he)<note n="*" place="margin">The beſt Ar<g ref="char:EOLhyphen"/>gument that ever they could give for Womens Meetings.</note> 
+                  <hi>you ſpeak ſo much againſt Women.</hi> To ſay the Truth, this was the beſt Argument he could give us, for his unſcriptural Female Government.</p>
+               <p>Though its well known, we love our Wives as true Chriſtians ought to do.</p>
+               <p>Nor are we againſt a Woman's Declaring in a Religious Meeting, what God has done for her Soul, by ſilently waiting at the Feet of Jeſus, as <hi>Mary</hi> did, (that is) in his <hi>Inward</hi> and <hi>Spiritual</hi> Grace.</p>
+               <p>Nor are we againſt Women meeting by themſelves, upon a particular occaſion, but not monthly for Government.</p>
+               <p>Nor are we againſt Men's Meetings upon urgent Occaſion, between themſelves, ſo as they Judge no other Perſon or Perſons, who has not choſen them Judges or Arbitrators.</p>
+               <p>Seeing God has placed the Civil Magiſtrates over us,<note place="margin">The Civil Ma<g ref="char:EOLhyphen"/>giſtrates are not to be re<g ref="char:EOLhyphen"/>iected, who in<g ref="char:EOLhyphen"/>deavour to preſerve us in Peace.</note> to whom we are to ſubmit in all things, that's not contrary to the Conſcience, which is Rectified by <hi>God's Grace, Rom.</hi> 13.</p>
+               <p>Oh! Call to mind the Severity of that Spirit, that has, and ſtill doth act in too many of you.</p>
+               <p>How many Souls have you, as it were, ſlain by Judging, and thereby driven into the troubled Sea of Man's Wrath,<note place="margin">You create Oppoſers, by your unfaith<g ref="char:EOLhyphen"/>fullneſs.</note> and being ſo driven by you thither (you laying aſide Chriſt's Love) can do no other than oppoſe you, then you do truly call them Apoſtates, when you were the Cauſe for want of Love.</p>
+               <p>Though the Truth is,<note place="margin">None can no longer ſtand faithful, than their Ever to God's Grace. Your A<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>gs have barr'd many Souls from owning the Truth, and has given ſtrength to the Atheiſts. The preſent Civil Magi<g ref="char:EOLhyphen"/>ſtrates have out done you in Love to all, The <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> imposing Spirit.</note> they were to blame alſo themſelves, becauſe they let go the Strength they had in God's Grace, and ſo ſuffered Man's Wrath and Envy to ſeparate them, from the Love of God in Chriſt Jeſus, through your Cenſors.</p>
+               <p>Likewiſe, how many Souls, by your Imperious Government, have you barr'd from Inquiring after the Truth, is too well known to ſome.</p>
+               <p>Oh! unnatural, not to give that Liberty to ſome, called with you <hi>Quakers,</hi> (in things not ſinful) as the preſent Civil Magiſtrates gives us all. This is not doing as you would be delt by. Think you, that God will not Judge you for theſe things? Let Self-Intereſt no longer blind your Eyes.</p>
+               <p>Oh! the Cruelty of this impoſing Spirit (when God does not chain it down) how many Thouſands of Souls and Bodies has it deſtroyed, which no Man can number; being yet lodged in the hearts of Ambitious
+<pb n="11" facs="tcp:37573:6"/>Women, and Ambitious Men: the ſame Spirit it is, that now judges <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Devil, that conforms not to their Wills, Orders, Ceremonies, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>Will you not yet ſay, that ſuch Prieſts are more to be commended, than you, who do not impoſe upon a Couple (that are about to marry) any Ceremonies againſt their Conſciences.<note place="margin">ſome Prieſts out-do you in Love.</note>
+               </p>
+               <p>How often have you troubled a Couple, for refuſing to ſubmit to a <hi>Female Government</hi> in Marriage, and enjoyning ſome, ſcarce of Ability to travel many Miles, and often (at their own charge) to your private <hi>Women's Meetings,</hi> and <hi>Men's Meetings,</hi> which have been ſo wearied with Journeys, and needleſs Delays, (tho' Relations were ſatisfied) who to rid themſelves of the trouble of waiting upon you any longer,<note place="margin">Judging all not of God, as conform not to <hi>Women's Meetings</hi> in Marriage; when the Scri<g ref="char:EOLhyphen"/>ptures enjoyns not your Ce<g ref="char:EOLhyphen"/>remony.</note> have gone to a Prieſt upon the account of Marriage.</p>
+               <p>Then have you not preſently judged them gone from the <hi>Truth,</hi> ha<g ref="char:EOLhyphen"/>ving recorded ſome (as I am inform'd) <hi>Apoſtates</hi> to Generations to come, for ſo doing, that obeyed not your Wills in <hi>Men's Meetings,</hi> (when you were the cauſe for their ſo doing) and will not own them of the <hi>Truth,</hi> until ſuch time as they condemn themſelves for ſo doing.</p>
+               <p>Oh! what a mighty Streſs you lay upon the Ceremony of <hi>Women's Meetings</hi> in Marriage, as to account all that oppoſe, or approve not of it, fallen from God.</p>
+               <p>When ſome of you will ſometimes ſay, why do you ſcruple ſuch an indifferent thing, as to propoſe your Intention of Marriage to a <hi>Woman's Meeting,</hi> and a <hi>Man's Meeting,</hi>
+                  <note place="margin">Jeſus did not hate his Bre<g ref="char:EOLhyphen"/>thren that did not believe in him. <hi>Joh.</hi> 7.5.</note> without Women.</p>
+               <p>And ſome again do ſay, That the Scriptures leaves all People free, as to the manner of their Marriage, ſo as they enter into that Eſtate in the fear of God, before ſufficient Witneſſes.</p>
+               <p>I do remember, that a Perſon, one of the greateſt Sticklers for the pro<g ref="char:EOLhyphen"/>moting of your <hi>Government of Women</hi> and <hi>Men's Meetings,</hi> once ſaid to me, <hi>It was the everlaſting Government, of which there would be no end;</hi>
+                  <note place="margin">Were you not blind, to ſay your Govern<g ref="char:EOLhyphen"/>ment would ſtand for ever.</note> but ſince (thro' God's Mercy) his Eyes are opened, and now plainly ſees it has been the Root, from whence ſo many Diviſions has ſprung among you the ſaid Perſon, has not yet loſt, being call'd a <hi>Quaker.</hi>
+               </p>
+               <p>I have asked ſome Couples, newly married, why they did propoſe their Intention of Marriage to a <hi>Meeting of Women,</hi> and then to a <hi>Meeting of Men,</hi> knowing the trouble that others have gone through, by ſo doing, ſeeing you knew you were clear from all Engagements to any other in this Kind, and that your Relations and Friends had been long ſatisfied?<note place="margin">The weakneſs of ſuch Cou<g ref="char:EOLhyphen"/>ples as go to marry at a pri<g ref="char:EOLhyphen"/>vate <hi>Women's Meeting,</hi> and <hi>Mens Meeting.</hi>
+                  </note> Did not you know it was Friend's Practiſe in the beginning, to mention their Intentions at the end of ſeveral <hi>Religious Meetings,</hi> and if none oppoſe juſtly, then might enter into that State, by ſpeaking fit Words at the end of another Publick <hi>Religious Meeting.</hi>
+               </p>
+               <pb n="12" facs="tcp:37573:7"/>
+               <p>There Anſwer was always to me to this effect:</p>
+               <p>
+                  <hi>We thought it a very hard Tryal,<note place="margin">For fear of diſ<g ref="char:EOLhyphen"/>pleaſing you, how many Couples has conformed a<g ref="char:EOLhyphen"/>gainſt Conſci<g ref="char:EOLhyphen"/>ence.</note> that after all things was agreed on for Marriage, to begin again to mention it to a</hi> Woman's Meeting; <hi>(moſt Stran<g ref="char:EOLhyphen"/>gers) and after they were ſatisfied, then to go to a</hi> Man's Meeting, <hi>to wait for the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> But this we did, contrary to our Freedom, that they might not think ill of us.</hi>
+               </p>
+               <p>You can <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one Couple among you, but will give an Anſwer much to the ſame effect; <note place="margin">Your own Bi<g ref="char:EOLhyphen"/>gots ſee the trouble of waiting upon you. </note> which by this may eaſily be ſeen what Domi<g ref="char:EOLhyphen"/>nion you exerciſe over the Innocent, that to keep favour with you, muſt leave their Inward Guide to pleaſe you.</p>
+               <p>But to plead for your new Arbitrary Government, ſome of you do ſay, <note place="margin">A frivilous Ar<g ref="char:EOLhyphen"/>gument.</note> That in the beginning, a Couple has come rudely into a <hi>Meeting,</hi> and ſaid they took each other as Man and Wife, and ſo brought a Scan<g ref="char:EOLhyphen"/>dal upon us.</p>
+               <p>What then? Is there never a wiſe Man among you, or Woman, in a Religious <hi>Meeting,</hi> that can ſay to ſuch a Couple, you ought to give the <hi>Meeting</hi> time to make inquiry whether you are clear from all Engage<g ref="char:EOLhyphen"/>ments in this Kind to any other Perſon or Perſons, and we ſhall do our Endeavour to reſolve you next firſt day;<note place="margin">See the true Chriſtians Rules, as to Church-Go<g ref="char:EOLhyphen"/>vernment in the 4th. Edi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of <hi>The Young Man's Compa<g ref="char:EOLhyphen"/>nion,</hi> not writ<g ref="char:EOLhyphen"/>ten to enjoyn others to obey, but left to the witneſs of God in all People.</note> for here's none that deſire; to put you off from time to time, by needleſs Delays; and as ſoon as w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> find you are honeſt, and are for coming together in the fear of the Lord, we ſhall freely ſet our Hands to a Certificate of the Lawfulneſs of your Marriage; at the end of a Religious <hi>Meeting,</hi> the more publick the better, nor will we ſend you many Miles to a <hi>Meeting</hi> of a few Women, (who may be ſtrangers to you) and they to ſend you, when they think Good to a private <hi>Man's Meeting,</hi> who may tell you, that if you will not ſubmit to our Orders, we ſhall not ſtand by you in Tryals, <hi>&amp;c.</hi> but ſhall begin and end your Marriage at the neareſt Religious <hi>Meeting,</hi> where you are beſt known, which was the innocent Practice of our dear deceaſed friends at reſt? I was married ſo,<note place="margin">☞</note> without any Oppoſition; for then,<note place="margin">How I was married, and many others.</note> neither <hi>Woman-Judges,</hi> nor <hi>Men-Judges</hi> in private Rooms was ſet up.</p>
+               <p>Now, becauſe ſome may be ready to ſay, we know of no ſuch Law or Decree that injoyns a Couple to go twice to propound their Marriage to a private <hi>Women's Meetings,</hi> and twice to a private <hi>Men's Meeting,</hi> here folllows the Copies of two of them.</p>
+            </div>
+            <div type="decree">
+               <opener>
+                  <dateline>From a Yearly Meeting in <hi>London,</hi> 
+                     <date>the 27th. of the 3d. Mon. <hi>1675.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>IT is our Judgment,<note place="margin">Two new Laws eſtabliſhed.</note> that for better Satisfaction to all Parcies, that there may be due time for Inquiry of clearneſs of the Perſons concerned, it is convenient that Marriage be at twice propounded to the Meetings that are to take care therein, both to the <hi>Men's</hi> and <hi>Women's Meetings,</hi> where
+<pb n="13" facs="tcp:37573:7"/>both are eſtabliſhed before they are accompliſhed; and when things are cleared, that the Marriage be accompliſhed in a Grave, and publick Aſ<g ref="char:EOLhyphen"/>ſembly of Friends and Relations.</p>
+            </div>
+            <div type="decree">
+               <head>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther Decree upon <hi>Record.</hi>
+               </head>
+               <p>
+                  <hi>THat for Time to come, no Friends may permit, or ſuffer Marriages, without the Cons;ent of Friends at two</hi> Men's, <hi>and two</hi> Women's Meet<g ref="char:EOLhyphen"/>ings, <hi>being <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and apart each from other.</hi> To mention more Decrees to this purpoſe, is needleſſ.</p>
+            </div>
+            <div type="continuation_of_text">
+               <p>But the Women in <hi>London</hi> you may be ſure w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> glad of their Exalta<g ref="char:EOLhyphen"/>tion (in finding that the Men had pre<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d <gap reason="illegible" resp="#UOM" extent="6 words">
+                     <desc>〈◊◊◊◊◊◊〉</desc>
+                  </gap> upon the account of Marriage.)</p>
+               <p>And finding the ſweetneſs of Ruling did (together with Men) judge all in the Country as <hi>Libertines,</hi> that conformed not to the Deeree, and do judge ſuch to this day, as one of their <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Preachers, <hi>T. R.</hi> One of late <hi>G. F.</hi>'s Prieſt-Threſhers ſaid to me; <hi>I w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> this Country are of a Libertine Spirit, and an indifferent <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> only becauſe (for good Conſcience like) we did not ſet up <hi>Womens Meetings.</hi> (Our Women are wiſer here.)</p>
+               <p>Tho' it is true, ſome of this County has ſo far conform'd to the De<g ref="char:EOLhyphen"/>crees, as to ſet up <hi>Men's Meetings,</hi> Monthly and Quarterly for Govern<g ref="char:EOLhyphen"/>ment, (which is one in Nature, to the other <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>Yet tho<note n="*" place="margin">Did not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> lament, that the Dames of <hi>Rome</hi> became Governors of their huſbands. <hi>It is ſtrange</hi> (ſaith he) <hi>that theſe <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ks com<g ref="char:EOLhyphen"/>manded the World <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to Women.</hi> See <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> P. <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> ſome ſay ſuch <hi>Meetings</hi> are very <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the City (where the Women dwell near together) tho' not ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the Country, dwelling ſo far aſunder.</p>
+               <p>I ſay, they are needful nowhere to be obſerved Monthly, becauſe thereby they become proud of the Authority.<note place="margin">W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men's Meet<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Monthly no where <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>. Which is the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of the Ambitious that <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+               </p>
+               <p>For if a Marriage is intended to be propounded at the end of a Religious <hi>Meeting,</hi> (to prevent Lordſhip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) and the Meeting happen to be a great one, (as is commonly in <hi>London,</hi> the Man him ſelf, or he may d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſire a Friend to declare at the end of the Meeting, that here is one that deſires to publiſh his Intention of Marriage; and if the People are <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> going away, you may call as many People aſ are free to draw into the next Room, and there publiſh it, both Men and Women being together. This done, ſome of the Meeting may tell the Man, that if he <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> next firſt Day, they will reſolve him according to what Inquiry they have made, and as ſoon as we find you are clear from all Engagements of this Kind to any other Perſon or Perſons you may take each other as Man and Wife, before as many Witneſſes as you please, the more, the better; for ſuch Concerns cannot be too publick, &amp;c.</p>
+               <p>This I write from the Innocency of my Soul, (not as a Law for o<g ref="char:EOLhyphen"/>thers) but this way may prevent the Inſulting <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ambitious Men and Wo<g ref="char:EOLhyphen"/>men, (who do pretend better things in Words) who delight in Domini<g ref="char:EOLhyphen"/>on,
+<pb n="14" facs="tcp:37573:8"/>and are ſo confident as to ſay, We diſpiſe Dignities or Government, in not ſubmitting to theſe unſcriptural Government of <hi>Woman</hi> and <hi>Men's Meetings.</hi>
+               </p>
+               <p>
+                  <hi>Obſ.</hi> Some may ſay, What art thou alſo againſt our Men's meeting Monthly for <hi>Government;</hi> for did not the <hi>Apoſtles</hi> adviſe to chooſe El<g ref="char:EOLhyphen"/>ders? <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I am not againſt the Meetings of ſuch Elders, for the innocent to adviſe with, as the <hi>Apoſtle</hi> would have choſen; that is, ſuch as are Meek in Heart,<note place="margin">What an El<g ref="char:EOLhyphen"/>der is, and how to be qua<g ref="char:EOLhyphen"/>lified.</note> Lowly in Spirit, Chaſte in Life, Virtuous in all Con<g ref="char:EOLhyphen"/>verſation, full of Self denial, Long-Suffering, and Patient, not only forgiving, but loving their very Enemies; one that rules his Children, and his own Houſe well; his Wife (if any) grave, (not proud, nor ſlan<g ref="char:EOLhyphen"/>derous) ſober and faithful in all things, 1 <hi>Tim.</hi> 3.4. 2 <hi>Tim. 2.24.</hi>
+               </p>
+               <p>Now I appeal to every Conſcience that is cleanſed by God's Grace, whither if any Man take upon himſelf to be an Elder, or Teacher in a <hi>Meeting,</hi>
+                  <note place="margin">Good Morality is more accep<g ref="char:EOLhyphen"/>table to God than <hi>Formaliſts.</hi> See <hi>P.</hi> 58. in the fourth E<g ref="char:EOLhyphen"/>dition of my <hi>Young Man's Companion.</hi> Alſo ſee a Character of a <hi>True Chriſtian,</hi> P. 74.</note> and is not qualified as aforeſaid, be not a <hi>Uſurper.</hi>
+               </p>
+               <p>God, in Mercy to the Innocent, has often curb'd the ſaid Impoſing Spirit, and will more and more, I doubt not, chain it down for ever; which he has already (in Mercy) done out of many Souls, praiſed be his Name for it.</p>
+               <p>God is a zealous God, he will not give his Honour to a <hi>Meeting of VVomen,</hi> or <hi>Men Judges,</hi> (having committed all Judgment in things re<g ref="char:EOLhyphen"/>lating to a good Conſcience unto his Son Chriſt Jeſus) and ſo fas has be<g ref="char:EOLhyphen"/>gun to open the Eyes of his faithful People, <note place="margin">People will not much longer be blinded by Man; for a great Aſſembly may err as well as a little one.</note>that they ſhall not be ſo blind to believe that a very large <hi>Meeting of VVomen</hi> or <hi>Men,</hi> can give an In<g ref="char:EOLhyphen"/>fallible Judgment in things that others ſhall be bound to believe and obey, as to a Ceremony, or the Judging of a Man, <hi>Not to be of God,</hi> when they have not proved he has ſinned againſt God.</p>
+               <p>For if the greatneſs of the Aſſembly muſt carry it (as one of your Preachers ſaid to me, <hi>how could ſuch a number be miſtaken?</hi>) Then the <hi>Turks</hi> or <hi>Papiſts</hi> cannot number you in Aſſemblies.</p>
+               <p>But have you not a way beyond all others to exerciſe your Authori<g ref="char:EOLhyphen"/>ty, moſt hiddenly,<note place="margin">A hidden Pow<g ref="char:EOLhyphen"/>er to blow up a Man's Repu<g ref="char:EOLhyphen"/>tation.</note> or in the Dark, by ſending abroad your Formal Preachers,<note n="†" place="margin">Who you ig<g ref="char:EOLhyphen"/>norantly think all is Goſpel they utter, though it is true in public, they declare good Words.</note> that do whiſper (where they think they can be credited) into the Ears of poor innocent People, <hi>that ſuch a Man or Men is not right, he doth not own our VVomen's Meetings, &amp;c.</hi> then Prejudice enters.</p>
+               <p>So that Man or Men, however Juſt, cannot have their Teſtimonies for God enter into thoſe prejudiced Spirits, or ſcarce entertained friend<g ref="char:EOLhyphen"/>ly in ſome places, upon their travel for poor Soul's ſake. Oh! the Ig<g ref="char:EOLhyphen"/>norance of thoſe People, that has not choſen Chriſt Grace in them for their Guide, but Man.</p>
+               <pb n="15" facs="tcp:37573:8"/>
+               <p>So that by this Secret way of whiſpering, how ſoon can you blow up an honeſt Man's Reputation.<note n="†" place="margin">Report, and we will report it.</note>
+               </p>
+               <p>Good God! How long, I pray thee, will it be before the Profeſſors of the Grace that came by thy Son Jeſus Chriſt, be obeyed by them, which teaches true Love to all thy Creation?<note place="margin">A Prayer for the Innocent that we love one an other, as God loves us all.</note> And as thy Love is to all People, (tho' Sinners) ſo are thy Followers. Lord, give them to ſee that they dwell not in the Light, when they envy any People; and al<g ref="char:EOLhyphen"/>ſo that they may ſee, that Man is no more to be rely'd on for a Guide, but only thy <hi>Inward and Spiritual Grace;</hi> this I beg of thee, for thy dear Son's <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is to whom be given all Honour, Rule and Dominion, now, and for ever, <hi>Amen.</hi>
+               </p>
+               <p>If God withdraws from ſuch as cloath themſelves with his Gifts, to ſerve Self Intereſt, how much more doth he withdraw his Love from ſuch Miniſters, as ſordidly conform (againſt their Conſciences) to a <hi>Fe<g ref="char:EOLhyphen"/>male Government,</hi>
+                  <note n="*" place="margin">Such a Teſt, to try Miniſters by, as was ne<g ref="char:EOLhyphen"/>ver heard of before.</note> that you the Judges might not inſcence their Hearers againſt them, when they travel to win Souls to Righteouſneſs; that the Scriptures might be fulfilled in this Age, (in this) <hi>The Leaders of the Peo<g ref="char:EOLhyphen"/>ple cauſe them to err.</hi>
+               </p>
+               <p>I ſay, Such Conforming Miniſters<note n="†" place="margin">Conforming Miniſters (that is) ſuch a one that deſigns to take up the whole time of a <hi>Meeting,</hi> in Speaking, and is offended it another Perſon takes up ſome of the time in Speaking; by which the firſt manifeſts him<g ref="char:EOLhyphen"/>ſelf to be out of the <hi>Apoſtle</hi>'s Practice, 1 <hi>Cor.</hi> 14.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>If any thing be reveal<g ref="char:EOLhyphen"/>ed, &amp;c. G. Whi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s</hi> ſaw much of an Impoſing Spi<g ref="char:EOLhyphen"/>rit in <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> againſt good Conſcience, may poſſibly win ſome Souls (by their Preachings) to the Form, but not to the Power of Godlineſs, which Power all do deny, that believe that Chriſt's <hi>Inward and Spiritual Grace</hi> is not a ſufficient Guide to all, with<g ref="char:EOLhyphen"/>out <hi>VVomen's Meetings</hi> and <hi>Men's Meetings,</hi> to guide the People by, ex<g ref="char:EOLhyphen"/>cept the Civil Magiſirates.</p>
+               <p>Oh! what do you adviſe People to this Grace for, if it muſt not be their only Teacher; then if the Grace of Chriſt in them teaches them not conform to your <hi>VVomens Meetings, &amp;c.</hi> Can you blame them then?</p>
+               <p>To draw towards a Concluſion, being it is in vain to ſpend too much Time and Paper, to diſcover the Vanity of a <hi>Female Government,</hi> and the Impoſing Spirit that now Rules and Reigns in ſuch oſ you as ſet up your ſelves Judges over Innocent People; which thing you condemned in Pro<g ref="char:EOLhyphen"/>feſſors before you.</p>
+               <p>What was the Reaſon think you that cauſed our <hi>English</hi> Poetical Pro<g ref="char:EOLhyphen"/>phet <hi>J. Wither,</hi> from joyning to any Religious Society being asked by a Friend of mine, he ſaid, <hi>Why <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Minds and Conſciences of their Brethren.</hi>
+               </p>
+               <p>Then it ſeems <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſeveral ſorts of Profeſſors before (ſince the Re<g ref="char:EOLhyphen"/>formation) were <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Impoſing, upon their Brethren's Conſcience, yet it <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="16" facs="tcp:37573:9"/>
+               <p>Therefore,<note place="margin">All ye that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove Righte<g ref="char:EOLhyphen"/>ouſneſs, Chriſt has given you, (and all men) Talent of his Grace to lead you into all Truth, ſo need not give Gifts to Men to teach you. Tit. 2.11</note> O ye honeſt and upright Hearts (where-ever diſperſed upon the Face of the Earth) who hunger and thirſt after Righteouſneſs, that ye might be filled therewith, and that it might fill the Earth, I ſay, let it be your Cry, as of Old, <hi>To thy Tents,</hi> O Iſrael! Truſt no more in Women or Men as Guides, truſt only to that Talent of Chriſt's Grace in you, that will never deceive you, its always ſtirring up the mind to good. That will truly teach you your Duty both to God and Man, and to love thoſe that hate you; It brings Salvation, <hi>Tit.</hi> 2.11. unto all that obey its Reproofs.</p>
+               <p>Oh! truſt not Man, whatever he whiſpers into your Ears, to prejudice your Minds againſt any Perſon upon the Earth.</p>
+               <p>The Mind going abroad from watching in this <hi>Inward an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Spiritual Grace,</hi>
+                  <note place="margin">Let no Man beget Preju<g ref="char:EOLhyphen"/>dice in thee a<g ref="char:EOLhyphen"/>gainſt another.</note> is the cauſe that the Devil gets into the Heart to raiſe hatred one againſt another.</p>
+               <p>But he that keeps his Mind upon the Watch, in this <hi>Tent,</hi> or <hi>ſtrong Tower, the Name of the Lord,</hi>
+                  <note n="*" place="margin">Wherein thy ſtrength lies, O Man, 2 <hi>Cor.</hi> 12. 9. As it was for <hi>Paul</hi> when buffeted by Satan.</note> neither Men nor Devils can deceive him; and he will truly Love all People, though they are of a different Perſua<g ref="char:EOLhyphen"/>ſion to him in points of Religion.</p>
+               <p>And will the truly Faithful to the Grace of God in themſelves, be ad<g ref="char:EOLhyphen"/>viſing People to obey the ſame Grace in their own Souls, and will not ſeek by any means to draw their Minds from the Obedience thereof; fearing they may fall as the young Prophet did, which obeyed the old Prophet, contrary to his own Gift from God, or Meſſage, 1 <hi>K.</hi> 13.18.</p>
+               <p>Theſe honeſt Souls, that has choſen the good part, God's Grace for their Guide,<note place="margin">Oh! the Love of an honeſt Heart to all People is to be praiſed above Rubies, <hi>&amp;c.</hi>
+                  </note> will envy no couple, that do from a free and willing Mind propound their Intention of Marriage <hi>twice</hi> to a Woman's Meeting, and <hi>twice</hi> at leaſt to a Man's Meeting.</p>
+               <p>Nor will envy a Couple that does, and thinks is more agreeable to Truth, to propoſe their Intentions at the end of ſeveral Religious Meet<g ref="char:EOLhyphen"/>ings, where Men and Women are met together, ſeeing the more publick the better ſatisfaction to all People; that a <hi>Judge</hi> did once acknowledge, that ſuch publick Marriages was lawful.</p>
+               <p>Oh!<note place="margin">Oh! that all Impoſers might obey God's Grace, and no longer preach from Head-know<g ref="char:EOLhyphen"/>ledge, making People believe it is as God's Spirit gives ut<g ref="char:EOLhyphen"/>terance.</note> that you Impoſers would obey, as well as preach up God's Grace, for Peoples Guide; then would you come into the Lamb's patience, in<g ref="char:EOLhyphen"/>to that Love, that overcomes Anger, and forgive your Brethren's Treſ<g ref="char:EOLhyphen"/>paſſes, as you hope God will forgive yours. Preach no more of ſuch Love until you witneſs it.</p>
+               <p>I am your Friend, and God knows my heart, I write in love to you: Though ſome of you, no doubt, will account me your Enemy, for thus telling (in part) how you are fallen from your firſt Inſtitu<g ref="char:EOLhyphen"/>tion.</p>
+               <pb n="17" facs="tcp:37573:9"/>
+               <p>If I am to blame, pray blame no body elſe,<note place="margin">If the Au<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> deſerves Blame, he <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> take all to <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſelf; for <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Eyes are <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> come Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> weeping f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> you with true broken Heart, and contrite Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rit, God o<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> knows, no <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> elſe at this time.</note> for no perſon dictated any thing to me, or put me upon this Work; I do not ſee that I Err therein.</p>
+               <p>Yet have I long ſeen and known, that many honeſt Hearts have been much grieved to ſee ſuch an alteration in the Profeſſors of the Truth, to what they were in the beginning, when Innocence and true Love to each other had dominion in the Souls of God's People (that is) be<g ref="char:EOLhyphen"/>aore Women and Men ſet themſelves up as Judges in the Meetings <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>foreſaid.</p>
+               <p>That you mayſee your Error, and return to the Truth, as in the be<g ref="char:EOLhyphen"/>ginning, is the deſire of your Loving Friend, <hi>William Mather.</hi> I do not take you to be mine Enemies, becauſe I am no Man's Enemy, (praiſed be God for it,) and that I continue as I have hither been, a Friend to all, a Foe to none.</p>
+               <p>To conclude, If you ſay I have been ſome-what too ſharp upon you,<note place="margin">I write n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> theſe things becauſe I think you ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> me, but be<g ref="char:EOLhyphen"/>cauſe I love you, ſo do no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hate you. If <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> want love, then let me loſe life, if i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be the Will of God.</note> I ſay I have not been ſo ſharp as the Matter of Fact requires.</p>
+               <p>Have you not trampled under your Feet many Epiſtles of Love, ſent to you, ſcorning to bait an inch of your Authority, where you can over<g ref="char:EOLhyphen"/>rule.</p>
+               <p>Therefore, If you are deſigned to Anſwer me, then I deſire you to let ſome Ancient Honeſt Friend do it, from the Gift of God in himſelf; and go not down to <hi>AEgypt</hi> for help. That is, go not to the <hi>Logicians,</hi> whoſe cunning <hi>Sophiſtry</hi> can make a good Cauſe ſeem bad, and a bad Cauſe ſeem good; I mean ſuch an one as <hi>T. E.</hi>
+                  <note n="†" place="margin">one skilled in the Art of Reaſoning or Diſputing.</note> who can by <hi>Sophiſtry</hi> ſo multiply Words, as to darken his innocent <hi>Readers,</hi> who is too often made to believe, his Cauſe muſt needs be good, his Matter is ſo long. Alas! How are men deceived in that? <hi>The fewer Words, the more Truth.</hi> And if he, or ſuch as ſay, I have <hi>Tautologies</hi>
+                  <note n="*" place="margin">a repeating the ſame thing in other words</note> herein, (a thing moſt of the Formal Preachers are guilty of, if it be a fault)<note place="margin">The Author deſires that a Friend in the Truth may Anſwer his Writing, but no Sophiſter:</note> blame me not for that. For I do not profeſs my ſelf a Schollar in the Languages, and therefore moſt fit, that ſuch a Schollar as I ſhould anſwer me. But if its come to that with you, that Scholarſhip, Man's Wiſdom and Reaſon muſt be Judge over ſuch Conſciences, as are rectified by God's Spirit, never more blame thoſe cunning Men, that drown'd the <hi>Text,</hi> in the Comment.</p>
+               <p>Likewiſe, Have you not often declared to the People, and do daily,<note place="margin">Man muſt lay down their Crowns at the feet of Jeſus.</note> that this is the day that — <hi>The loftineſs of Man ſhall be bowed down, and the Haughtineſs of Man ſhall be made low, and the Lord alone ſhall be exalted,</hi> Iſa. 2.17.</p>
+               <pb n="18" facs="tcp:37573:10"/>
+               <q>
+                  <l>What Eyes thou read'ſt with, <hi>Reader,</hi> know I not,</l>
+                  <l>Mine were not dry, when I theſe Failings wrote.</l>
+               </q>
+               <p>
+                  <hi>Take ye heed every one of his Neighbour, and truſt ye not in any Brother; for every Brother will utterly ſupplant, and every Neighbour will walk with Slanders,</hi> Jer. 9.4.</p>
+               <p>Was this <hi>Jeremiah</hi>'s Complaint in his day, the ſame may be taken up this day. Read his <hi>9th.</hi> Chapter. Oh! that all may fear before the Lord, by obeying his Grace, or Gifts in themſelves, that we may all ſay with Holy <hi>David, Mercy and Truth are met together, Righteouſneſs and Peac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have kiſſed each other. Truth ſhall ſpring out of the Earth, and Righteouſneſs ſhall look down from Heaven,</hi> Pſal. 85.10, 11. Amen.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="19" facs="tcp:37573:10" rendition="simple:additions"/>
+            <head>Poſtſcript.</head>
+            <p>ABOUT the <hi>9th.</hi> of this Month of <hi>September</hi> came to my hand, from <hi>Tobias Hardmeat,</hi> the Letter I ſent him (above Print<g ref="char:EOLhyphen"/>ed) with ſeveral little Sentences he wrote on the Margent thereof, in Anſwer to which, take as follows.</p>
+            <p>T. H. <hi>It's not Impoſition, but Advice to good Order.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Is it not Impoſition to brand all as Libertines, Apoſtates, and not of God, that conform not to your Unſcriptural Orders? If you did not compel, none would oppoſe you. Though I may ask you, From whence you had your Authority, (without Offence, I hope) as you have asked other Religious Societies before you, Why they enjoyn'd un<g ref="char:EOLhyphen"/>ſcriptural Orders?</p>
+            <p>T. H. <hi>That Spirit that oppoſeth Truth, is curſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Doſt thou curſe me, for oppoſing a Female Government? If that Authority be thy <hi>Truth,</hi> thou ſo often ſpeaks of, then am I an <hi>Op<g ref="char:EOLhyphen"/>poſer,</hi> and thou an <hi>Impoſer.</hi>
+            </p>
+            <p>T. H. <hi>Having learned, Therefore I ſpeak and teſtifie.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What Spirit has learned thee, to call Women <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Truth, and to <hi>Curſe</hi> and teſtifie, That all thoſe that oppoſe a Female Go<g ref="char:EOLhyphen"/>vernment, is not of God?</p>
+            <p>T. H. <hi>To deſire a Man's amendment, is to deſire his good.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> True. But had the young Man any fault, beſides his non ſubmiſſion to a Female Government?</p>
+            <pb n="20" facs="tcp:37573:11"/>
+            <p>T. H. <hi>A Scoff, not ſolid enough, for one profeſſing Truth.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What, becauſe I deſired thee to let me know how the Wo<g ref="char:EOLhyphen"/>men Judges, did to bear it, that a young Man could not own their Au<g ref="char:EOLhyphen"/>thority?</p>
+            <p>T. H. <hi>Its well they do ſome good,</hi> (meaning the Women Judges.)</p>
+            <p>
+               <hi>Anſw.</hi> That is, their Giſts to the Poor, yea its good in rich Widows, and alſo in married Women, when their Husbands are uncapable to do it themſelves; and if that's all the good they do, they had better lay down their Authority, and not leave their buſineſs Monthly and Quarterly, to no purpoſe?</p>
+            <p>T. H. <hi>Its well thou haſt ſo much Charity, cheriſh it, and it may grow.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thou praiſes me for my Charity, in not deſiring to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ir up Wrath or Choler in thee; but my Charity extends further, for I have all along been very free to entertain any of your formal Preachers, re<g ref="char:EOLhyphen"/>joyeing at the exaltation of Chriſt's Grace in each Soul, when they de<g ref="char:EOLhyphen"/>clare the power and virtue thereof, in this dark Town of <hi>Bedford;</hi> but if they build up with one hand, and throw down with the other hand, by ſetting up other Guides, beſides Chriſt's Grace, they are returned into <hi>Babylon.</hi>
+            </p>
+            <p>But to the great grief of my Soul, I find, that moſt of ſuch Teachers, are for Preaching chiefly to ſuch People, as do already witneſs their true Teacher in themſelves, when our dear Saviour reſpected neither Time or Places, who did inſtruct the People where they were moſt Congregated together. And thoſe he now ſends forth, would certainly be of the ſame mind, if his good Spirit was their Guide. If you are not for the Exaltation of Men Judges, why was there about 10 Preachers at one Meeting in <hi>Huntington,</hi> lately, to the grief of ſome, becauſe <hi>Geo. White<g ref="char:EOLhyphen"/>head</hi> was there that day.</p>
+            <p>T. H. <hi>I know not any ſuch impoſers amongſt us; but ſubmiſſion to the Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, is good.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I admire thy Confidence, to ſay, Thou knoweſt no ſuch Im<g ref="char:EOLhyphen"/>poſers amongſt you. Can you inflict greater puniſhment upon a Non<g ref="char:EOLhyphen"/>Conformiſt to <hi>Women Counſel,</hi> than to tell their Friends ſuch are Liber<g ref="char:EOLhyphen"/>tines, Atheists, and not of God? Could ever any Impoſers go further?
+<pb n="21" facs="tcp:37573:11"/>Except they had power to caſt into Priſon: What is more dear to a Man than a good Name, as to this World?</p>
+            <p>And I further ask thee, Whether there be any other <hi>Truth,</hi> beſides the Grace of God, in our own Hearts, which we are to ſubmit to?</p>
+            <p>T. H. <hi>Opinions are too numerous, Truth is one in all.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If my Opinion, in adviſing thee and thy Brethren (in the Letter above,) to come to that good Order or Practice of Friends, as in the beginning, was not according to the Truth, (or Grace of God,) why didſt thou not diſprove it, in this thy pretended Anſwer.</p>
+            <p>And as Truth is one in all (as thou ſayeſt) Why do you Judge it in others? But rather leave every one to ſtand or fall, as they obey it, and if any diſobey the Truth, or Grace in themſelves; you that are Spiritu<g ref="char:EOLhyphen"/>al, ſhould tell them of it; but force by ſcandalizing the Diſobedient, is not the way to win them to Obedience, to the Truth in themſelves?</p>
+            <p>T. H. <hi>Look into</hi> Bedfordſhire <hi>Paper of Preſcription for Order, and there thou may find good Advice many Years ſince.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I know nothing of what's in it: But if any Perſons has taken upon themſelves to draw Preſcriptions or Orders (contrary to the Holy Scriptures) as a Bond upon all others to obey the ſame, that's nothing to me; I am not to follow a Multitude into Innovations. Our Preachers has already told us, That God's Grace in each Soul, is to be the only Leader into all Truth, which (through God's great Love) is witneſſed to be ſo. So that if they are gone from that, and deſign to exalt them<g ref="char:EOLhyphen"/>ſelves as Guides, we know better things; therefore it is more ſafer to follow our true and inward Teacher, than weak Man, who is ſo apt to degenerate from their Primitive Inſtitution.</p>
+            <p>T. H. <hi>Friend,</hi> William Mather, <hi>my Advice to thee for Truth ſake is, be ſtill and quiet.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Who can hold their peace, while Women and Men-Judges exalt themſelves in Authority, above all that is called good in the Innocent; and while you have your Formal Preachers, (or <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) to travel through the Nation, whiſpering into the Ears of poor people, that ſuch and ſuch Perſons are fallen from the Truth; when in reality you can find no fault in them, but their Non-conformity to a Female Govern<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi>
+            </p>
+            <pb n="22" facs="tcp:37573:12"/>
+            <p>T. H. <hi>And what it is in thee, that Judgeth others.</hi>
+            </p>
+            <p>
+               <hi>Anſw. As I hear, I Judge.</hi> 
+               <q>Now every Man ought to compare the Doctrine of that Age, wherein he lives; with no other Doctrine, than that which was out of all queſtion ſpotleſs, which is the Doctrine of the Apoſtles.</q> 
+               <hi>W. S. Ad. to Proteſtants,</hi> p. 162.</p>
+            <p>T. H. <hi>I love not Controverſie, but Peace and Truth, and deſire therein to grow.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Neither do I love Controverſie; my labour only is that all may lay down their honour at the Foot-ſtool of Chriſt's Grace.</p>
+            <p>T. H. <hi>Our Labour and Travail, in attending our Monthly and Quarterly Meetings, is to preſerve and keep, and bring into Order, Chriſt's Spiritual Government.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Who was it firſt that put poor Innocent VVomen upon Tra<g ref="char:EOLhyphen"/>vail ſeveral Miles Monthly and Quarterly; was it not Ambitious Men? If thou waſt not aſhamed of their Authority, ſure thou wouldeſt have given me one Scripture proof for it, if thou could. Doſt thou think that the VViſdom of VVomen or Men, can bring in Order Chriſt's Spiritual Government? No, no, It's his Spirit that can only do it.</p>
+            <p>T. H. <hi>That all may be preſerved out of Miſcarriages</hi> (you ſet up this Go<g ref="char:EOLhyphen"/>vernment) <hi>and the precious Truth ſet over all.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That Chriſt, the precious Truth, may be ſet over all, is all that I labour for: If over all, then over all your Meetings of Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Can any thing preſerve out of Miſcarriages, beſides God's Grace, the precious Truth?</p>
+            <p>VVhat is there never a Spiritual-minded Man or VVoman in a Reli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ous Meeting, that ſees a Fault in another, that cannot tell the party thereof privately at the end of the Meeting, or go to their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to tell them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Matt.</hi> 18. but muſt Summon him, or her, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little private Meeting Monthly, I know not how many Miles off their Dwe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ings?</p>
+            <p>T. H. <hi>Wait in God's Fear, to know thy ſelf.</hi>
+            </p>
+            <pb n="23" facs="tcp:37573:12"/>
+            <p>
+               <hi>Anſw.</hi> I praiſe God, he has kept me in his Fear, from my Child<g ref="char:EOLhyphen"/>hood, and have ſo far denyed ſelf, that I could not enter into Self-Ex<g ref="char:EOLhyphen"/>altation, by joyning with your Authority in Government, though I have been often invited ſo to do.</p>
+            <p>So that many of you that have Reigned ſo long, ſcorn to be told of your Arbitrary proceedings; yea, he that ſhall but tell you how you err, you will account him an Impoſer, though the Name moſt properly be<g ref="char:EOLhyphen"/>long to you, as I have before proved it.</p>
+            <p>Good God! Can we put no Truſt in Man? Haſt not thou raiſed up one Religious Society after another, who begun well, whileſt they took Counſel only of thy good Spirit in their Hearts, kept their firſt Love? But its greatly to be lamented, to behold moſt Societies chooſe other Go<g ref="char:EOLhyphen"/>vernours beſides Thy Spirit, and ſo come to divide, in about Thirty Years after thou haſt raiſed them. O Lord, I pray Thee, look upon this People with an Eye of pity, (to whom thou haſt given large gifts,) turn their hearts to Thy Grace, more and more, that they may no longer take Glory to themſelves, and pride themſelves with thy Jewels, that another People take not their Crowns; for thy dear Son's ſake. To whom be all Honour, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
